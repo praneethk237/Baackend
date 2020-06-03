@@ -1,0 +1,100 @@
+
+{"iphone 4S","Made by apple have ios","15000"}
+{"VivoY12","Triple Camera","10990"}
+{"Oppo Reno 2F","LCD Display","13990"}
+{"Oppo F3","LCD Display","994"}
+{"Samsung Galaxy","Android with fast charging","10799"}
+{"iphone 4","Made by apple have ios","12000"}
+{"Oppo Reno","LCD Display","28590"}
+{"One plus 7T","Android with dash charger","55799"}
+{"Oppo R7 Lite","LCD Display","20090"}
+{"Xiaomi Redmi","Android with upgradable","14799"}
+{"Oppo Find 5","LCD Display","6890"}
+{"VivoV19","Triple Camera","8990"}
+{"Oppo R17 Pro","LCD Display","24990"}
+{"Xiaomi Redmi Pro","Android with upgradable","14799"}
+{"Samsung M30S","Android with fast octa core","13000"}
+{"Oppo Joy","LCD Display","6990"}
+{"Samsung A50","Android with dual camera","16799"}
+{"Oppo K3","LCD Display","18905"}
+{"One plus 7","Android with dash charger","45799"}
+{"Samsung Galaxy M21","Android with fast charging","13199"}
+{"Oppo Reno 10X Zoom","LCD Display","38990"}
+{"One plus 1","Android with dash charger","15799"}
+{"VivoY17","Triple Camera","12990"}
+{"Oppo A9","LCD Display","12490"}
+{"One plus 3","Android with dash charger","25799"}
+{"Realme5S","Quad Camera","11324"}
+{"VivoY19","Triple Camera","8090"}
+{"Xiaomi poco X2","Android with dual camera","16999"}
+{"VivoY90","Triple Camera","6990"}
+{"Oppo F3 Plus","LCD Display","9990"}
+{"VivoV17","Triple Camera","19990"}
+{"Realme7","Quad Camera","45799"}
+{"One plus 5T","Android with dash charger","35799"}
+{"VivoNex","Triple Camera","29990"}
+{"RealmeC4","Quad Camera","9799"}
+{"VivoU20","Triple Camera","11990"}
+{"One plus 5","Android with dash charger","35799"}
+{"iphone 5S","Made by apple have ios","25000"}
+{"Realme6A","Quad Camera","35799"}
+{"VivoY11","Triple Camera","9990"}
+{"iphone 6S","Made by apple have ios","35000"}
+{"One plus 7 Pro","Android with dash charger","65799"}
+{"VivoX5Max","Triple Camera","9944"}
+{"RealmeNeon","Quad Camera","15799"}
+{"Oppo A31","LCD Display","11990"}
+{"VivoY79","Triple Camera","38990"}
+{"iphone XR","Made by apple have ios","65000"}
+{"Oppo Reno 3 pro","LCD Display","27990"}
+{"VivoY27L","Triple Camera","9990"}
+{"Oppo A92020","LCD Display","14990"}
+{"RealmeC2","Quad Camera","5799"}
+{"Oppo F9 Pro","LCD Display","12190"}
+{"VivoS1 Pro,"Triple Camera","19990"}
+{"iphone 11","Made by apple have ios","150000"}
+{"RealmeC3","Quad Camera","8799"}
+{"Oppo R11S","LCD Display","58990"}
+{"VivoZ3i","Triple Camera","28990"}
+{"Oppo1S","LCD Display","8990"}
+{"Moto G4","6000 mah battery","15799"}
+{"VivoX23","Triple Camera","38990"}
+{"Oppo f1","LCD Display","18990"}
+{"Realme6","Quad Camera","25799"}
+{"Vivoz1X","Triple Camera","18990"}
+{"RealmeC","Quad Camera","4799"}
+{"Oppo R11P","LCD Display","18990"}
+{"VivoY15","Triple Camera","11990"}
+{"Oppo A92","LCD Display","18990"}
+{"VivoY15 Pro","Triple Camera","16990"}
+{"VivoB20","Triple Camera","10990"}
+{"Oppo A5","LCD Display","8990"}
+{"Oppo A83","LCD Display","6990"}
+{"Nokia 150","Long lasting","2000"}
+{"Nokia 5310","Long lasting","3190"}
+{"Nokia 6.1S","Long lasting","6149"}
+{"VivoZY","Triple Camera","11990"}
+{"Nokia 8 Sirocco","Long lasting","54999"}
+{"Nokia 2720 fold","Long lasting","3999"}
+{"Nokia 1.3","Long lasting","7599"}
+{"Nokia 6600","Long lasting","849"}
+{"VivoNex","Triple Camera","29990"}
+{"VivoU20","Triple Camera","11990"}
+{"Nokia 105 Dual sim","Long lasting","1149"}
+{"Nokia 8110","Long lasting","2149"}
+{"Oppo S","LCD Display","8990"}
+{"Vivom20","Triple Camera","16990"}
+{"Nokia 5.3","Long lasting","15149"}
+{"VivoS1 Pro,"Triple Camera","19990"}
+{"Nokia 106","Long lasting","1249"}
+{"Nokia 105","Long lasting","1089"}
+{"Oppo R1S","LCD Display","5890"}
+{"Nokia 7.2","Long lasting","15949"}
+{"VivoU25","Triple Camera","11990"}
+{"Nokia 4.2","Long lasting","7449"}
+{"Oppo 11S","LCD Display","5890"}
+{"Moto G4","6000 mah battery","15799"}
+{"Nokia 6.1 Pro","Long lasting","19949"}
+{"Oppo N1","LCD Display","12690"}
+{"Oppo RS","LCD Display","8990"}
+{"Nokia 6.1","Long lasting","10949"}
