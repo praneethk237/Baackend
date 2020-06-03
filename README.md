@@ -9,3 +9,6 @@ Method Signature is added here
     
     
    And this controller calls a method from the ServiceImpl class. ServiceImpl class implements Service class.
+   
+   
+   The data is present in the products.txt file which is in the src/main/resources.
